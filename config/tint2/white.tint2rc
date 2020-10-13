@@ -48,7 +48,7 @@ border_width = 0
 border_sides = TBLR
 border_content_tint_weight = 0
 background_content_tint_weight = 0
-background_color = #161c29 100
+background_color = #f9f9f9 100
 border_color = #000000 0
 background_color_hover = #000000 0
 border_color_hover = #000000 0
@@ -292,4 +292,3 @@ tooltip_hide_timeout = 0.1
 tooltip_padding = 4 4
 tooltip_background_id = 0
 tooltip_font_color = #000000 100
-
