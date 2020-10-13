@@ -1,0 +1,12 @@
+.*
+!.
+!.gitignore
+
+!.config
+!.font
+!.oh-my.zsh
+!.urxvt
+!.zsh
+
+!.wallpaper.png
+!.wallpaper.jpg
